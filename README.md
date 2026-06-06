@@ -23,4 +23,4 @@ Un documento anexo que sintetice el proceso conceptual y justifique las decision
 --> Usar dos planas para un solo contenido  
 --> Cortar, buscar distintas formas para el borde de página  
 --> Usar transparencias  
-![Transparencia](<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e46266c3-4351-484e-8586-f7f2a09ceca1" />)
+![Transparencia](https://pin.it/g6oIqjzba)
