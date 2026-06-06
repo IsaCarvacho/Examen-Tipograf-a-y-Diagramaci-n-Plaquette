@@ -21,6 +21,8 @@ Un documento anexo que sintetice el proceso conceptual y justifique las decision
 
 ## Ideas Plaquette  
 --> Usar dos planas para un solo contenido  
+![contenido](https://i.pinimg.com/736x/77/ba/81/77ba81e06c6877a0f93d352f59db5474.jpg)
 --> Cortar, buscar distintas formas para el borde de página  
+![Formas](https://i.pinimg.com/736x/72/47/b6/7247b6dca4a1772139a7c6905287775e.jpg)
 --> Usar transparencias  
 ![Transparencia](https://i.pinimg.com/1200x/a4/9f/9d/a49f9d61c04d6edd01a904bddb5ecad8.jpg)
