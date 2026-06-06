@@ -116,4 +116,13 @@ La canción 'La Vuelta Al Mundo' de Calle 13 es una invitación a romper con la 
 
 El coro de la canción, 'Dame la mano y vamos a darle la vuelta al mundo', es un llamado a la compañía y al compartir experiencias. La letra sugiere que la vida es más rica cuando se comparte con alguien especial, y que el amor y la conexión humana son esenciales para una vida plena. La mención de dejar atrás la renta, el sueldo y el trabajo en la oficina simboliza el rechazo a la rutina y al materialismo, proponiendo un estilo de vida más conectado con la naturaleza y las emociones genuinas.
 
-La canción también toca temas de autoafirmación y cambio personal. 'Si quieres cambio verdadero, pues camina distinto', es una línea que anima a la acción y a la transformación personal como medio para alcanzar la felicidad y la satisfacción. Calle 13, conocido por su estilo musical que mezcla rap, reggaetón y otros ritmos latinos, utiliza su música para comentar sobre la sociedad, la política y la condición humana, y 'La Vuelta Al Mundo' es un ejemplo de cómo invitan a sus oyentes a cuestionar el status quo y buscar su propio camino.
+La canción también toca temas de autoafirmación y cambio personal. 'Si quieres cambio verdadero, pues camina distinto', es una línea que anima a la acción y a la transformación personal como medio para alcanzar la felicidad y la satisfacción. Calle 13, conocido por su estilo musical que mezcla rap, reggaetón y otros ritmos latinos, utiliza su música para comentar sobre la sociedad, la política y la condición humana, y 'La Vuelta Al Mundo' es un ejemplo de cómo invitan a sus oyentes a cuestionar el status quo y buscar su propio camino.  
+
+__Conceptos desprendidos de la canción__  
+Libertad: Es la capacidad y facultad natural de la persona para actuar según su propia voluntad, deseos y criterios, sin estar sujeta a presiones, coacciones o sumisión. Su ejercicio implica asumir la responsabilidad por los actos propios.  
+Emancipación: Acto o proceso mediante el cual una persona, grupo social o colectivo se libera de una tutela, dependencia, poder o subordinación, adquiriendo autonomía, independencia o igualdad de derechos.  
+Rebelión: Acción y efecto de oponer resistencia, desobedecer una autoridad o sublevarse contra un orden establecido. Implica un rechazo activo a cumplir normas, jerarquías u órdenes, pudiendo manifestarse desde la desobediencia civil pacífica hasta la insurrección armada.  
+Conexión: Enlace, atadura, trabazón, concatenación de una cosa con otra.  
+Transformación: Acción y efecto de modificar, alterar o convertir una cosa, forma, idea o estructura en otra distinta. A diferencia de un cambio superficial, implica una evolución profunda y significativa, conservando la esencia original pero dándole un sentido, propósito o aspecto completamente nuevo.
+
+Estetica relacionada a la canción
