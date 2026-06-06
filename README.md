@@ -107,4 +107,13 @@ Darle la vuelta al mundo
 Dame la mano  
 Y vamos a darle la vuelta al mundo  
 Darle la vuelta al mundo  
-Darle la vuelta al mundo
+Darle la vuelta al mundo  
+
+__Análisis de la canción__  
+[Análisis](https://www.letras.com/calle-13/1798449/significado.html)  
+
+La canción 'La Vuelta Al Mundo' de Calle 13 es una invitación a romper con la monotonía y las estructuras convencionales de la vida para embarcarse en una aventura de autodescubrimiento y libertad. A través de sus letras, el vocalista Residente reflexiona sobre la importancia de la experiencia directa y el aprendizaje a través de la observación, en contraposición a la educación formal representada por los libros que no lee. La canción desafía la idea de que la vida debe seguir un guion preestablecido, enfatizando en cambio la espontaneidad y la alegría de vivir.
+
+El coro de la canción, 'Dame la mano y vamos a darle la vuelta al mundo', es un llamado a la compañía y al compartir experiencias. La letra sugiere que la vida es más rica cuando se comparte con alguien especial, y que el amor y la conexión humana son esenciales para una vida plena. La mención de dejar atrás la renta, el sueldo y el trabajo en la oficina simboliza el rechazo a la rutina y al materialismo, proponiendo un estilo de vida más conectado con la naturaleza y las emociones genuinas.
+
+La canción también toca temas de autoafirmación y cambio personal. 'Si quieres cambio verdadero, pues camina distinto', es una línea que anima a la acción y a la transformación personal como medio para alcanzar la felicidad y la satisfacción. Calle 13, conocido por su estilo musical que mezcla rap, reggaetón y otros ritmos latinos, utiliza su música para comentar sobre la sociedad, la política y la condición humana, y 'La Vuelta Al Mundo' es un ejemplo de cómo invitan a sus oyentes a cuestionar el status quo y buscar su propio camino.
