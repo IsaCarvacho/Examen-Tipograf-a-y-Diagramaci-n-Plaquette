@@ -123,6 +123,20 @@ Libertad: Es la capacidad y facultad natural de la persona para actuar según su
 Emancipación: Acto o proceso mediante el cual una persona, grupo social o colectivo se libera de una tutela, dependencia, poder o subordinación, adquiriendo autonomía, independencia o igualdad de derechos.  
 Rebelión: Acción y efecto de oponer resistencia, desobedecer una autoridad o sublevarse contra un orden establecido. Implica un rechazo activo a cumplir normas, jerarquías u órdenes, pudiendo manifestarse desde la desobediencia civil pacífica hasta la insurrección armada.  
 Conexión: Enlace, atadura, trabazón, concatenación de una cosa con otra.  
-Transformación: Acción y efecto de modificar, alterar o convertir una cosa, forma, idea o estructura en otra distinta. A diferencia de un cambio superficial, implica una evolución profunda y significativa, conservando la esencia original pero dándole un sentido, propósito o aspecto completamente nuevo.
+Transformación: Acción y efecto de modificar, alterar o convertir una cosa, forma, idea o estructura en otra distinta. A diferencia de un cambio superficial, implica una evolución profunda y significativa, conservando la esencia original pero dándole un sentido, propósito o aspecto completamente nuevo.  
+Identidad  
+Nómada
 
-Estetica relacionada a la canción
+Estetica bitacora de viaje
+Ideas. Tickets de avión/barco. Estampas. Billetes, monedas del mundo. Visas. Menú. Pasaporte. Brujula  
+Elementos interior: QR canción  
+
+Tipografías:  
+- Finger Paint (Google fonts)
+- Chokokutai (Google fonts)
+- Walter Turncoat (Google fonts) Título
+- Plunct (Adobe fonts)
+- Abolition (Adobe fonts) Título
+- RL Folklor (Adobe fonts) Título
+- Brush up (Adobe fonts)
+- Kuhlman Variable (Adobe fonts)
