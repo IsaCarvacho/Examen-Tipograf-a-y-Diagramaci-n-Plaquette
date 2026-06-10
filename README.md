@@ -109,6 +109,9 @@ Y vamos a darle la vuelta al mundo
 Darle la vuelta al mundo  
 Darle la vuelta al mundo  
 
+77 lineas / 5  
+15,4
+
 __Análisis de la canción__  
 [Análisis](https://www.letras.com/calle-13/1798449/significado.html)  
 
