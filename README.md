@@ -143,3 +143,11 @@ Tipografías:
 - RL Folklor (Adobe fonts) Título
 - Brush up (Adobe fonts)
 - Kuhlman Variable (Adobe fonts)
+
+2do texto palabra "destino" grande y en medio con textura o imagen  
+[Tutorial](https://cl.pinterest.com/pin/628463323005511479/)  
+Texto dos páginas (3ro), usar Y grande y texto al lado  
+[Tutorial](https://cl.pinterest.com/pin/260082947226087789/)  
+Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLegan hasta paisaje de lago al pie de página (efecto photoshop)  
+[Tutorial](https://cl.pinterest.com/pin/817192294904645047/)
+
