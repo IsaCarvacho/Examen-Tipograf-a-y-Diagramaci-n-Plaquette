@@ -144,7 +144,7 @@ Tipografías:
 - Brush up (Adobe fonts)
 - Kuhlman Variable (Adobe fonts)
 
-2do texto palabra "destino" grande y en medio con textura o imagen  
+2do texto palabra "destino" grande y en medio con textura o imagen. Abajo, puede ser pradera, arriba imagenes de arboles. Seguir lógica de piso y altura.  
 [Tutorial](https://cl.pinterest.com/pin/628463323005511479/)  
 Texto dos páginas (3ro), usar Y grande y texto al lado  
 [Tutorial](https://cl.pinterest.com/pin/260082947226087789/)  
