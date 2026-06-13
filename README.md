@@ -149,5 +149,10 @@ Tipografías:
 Texto dos páginas (3ro), usar Y grande y texto al lado  
 [Tutorial](https://cl.pinterest.com/pin/260082947226087789/)  
 Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLegan hasta paisaje de lago al pie de página (efecto photoshop)  
-[Tutorial](https://cl.pinterest.com/pin/817192294904645047/)
+[Tutorial](https://cl.pinterest.com/pin/817192294904645047/)  
+
+### Tipografías usadas  
+- Abolition (Título)
+- KitSans SemiBold (Texto general)
+- Late Serif Variable (Y grande)
 
