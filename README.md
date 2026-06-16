@@ -161,11 +161,11 @@ Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLega
 3. Billetes
 4. Entradas lugares (naturakes, conciertos, etc)
 5. Visa(?
-6. Vip paises externos
-7. Estampas
-8. Postales
-9. Stickers
-10. Plumas, hojas, flores etc cosas naturales
-11. Mapas, lineas de metro
-12. Croquis hechos a mano
-13. Brujula
+6. Bip paises externos
+8. Estampas
+9. Postales
+10. Stickers
+11. Plumas, hojas, flores etc cosas naturales
+12. Mapas, lineas de metro
+13. Croquis hechos a mano
+14. Brujula
