@@ -156,3 +156,16 @@ Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLega
 - KitSans SemiBold (Texto general)
 - Late Serif Variable (Y grande)
 
+1. Tickets de avion
+2. Boletas
+3. Billetes
+4. Entradas lugares (naturakes, conciertos, etc)
+5. Visa(?
+6. Vip paises externos
+7. Estampas
+8. Postales
+9. Stickers
+10. Plumas, hojas, flores etc cosas naturales
+11. Mapas, lineas de metro
+12. Croquis hechos a mano
+13. Brujula
