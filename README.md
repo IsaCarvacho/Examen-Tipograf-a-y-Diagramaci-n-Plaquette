@@ -169,3 +169,19 @@ Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLega
 12. Mapas, lineas de metro
 13. Croquis hechos a mano
 14. Brujula
+
+Imprimir folleto.  
+--> Area rosada significa que no se esta imprimiendo.  
+Configuración: Revisar tamaño del papel  
+Activar marcas de impresoras y marcas de sangrado  
+Elegir archivo postscript y adobe pdf  
+Escala 100%  
+Posición página: centrada  
+OK  
+Previsualización --> Configuración --> Imprimir pliegos de impresora en blanco  
+Tipo de folleto: Cosido 2 hojas  
+
+Imprimir para guardar el archivo .ps (postscript)  
+Después abrir archivo ps como pdf  
+
+Archivo: Exportar como pdf y elegir x1a2001
